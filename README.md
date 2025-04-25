@@ -1,3 +1,9 @@
+# Put all files with "Image -" in front of it to an Image folder and merge any that are numerical.
+
+
+
+
+
 # Vial Organizer with k-NN Machine Learning
 
 This project presents a simple yet effective machine learning-based approach to organizing vials based on their cap colors using the k-Nearest Neighbors (k-NN) algorithm. The system is built around a grid-style vial holder, where each slot may contain a vial with a colored cap (Red, White, Blue, Black, or No Cap). The goal is to detect vial cap types from images and reorganize them according to a target logic (e.g., sorted Red-White-Blue by column).
